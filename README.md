@@ -1,2 +1,1 @@
-# ImageFlow
-Amore.ink 图床
+# Amore.ink CDN 仓库
